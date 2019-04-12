@@ -1,47 +1,25 @@
-﻿# [STM8L](https://github.com/mcuyun/STM8L) 
+﻿# [STM8L0](https://github.com/sochub/STM8L0) 
+[![sites](SoC/SoC.png)](http://www.qitas.cn) 
+####  qitas@qitas.cn
+#### 父级：[STM8L](https://github.com/sochub/STM8L) 
+#### 近似：[STM32L](https://github.com/sochub/STM32L)
 
-STM8单片机低功耗系列
+## [描述](https://github.com/sochub/STM8L0/wiki) 
 
-[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+ a similar core performance and peripheral set as the STM8L151/152
 
-#### 更多MCU：[mcuyun](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
-
----
-
-## 组成
-
-#### docs
-
-包括芯片手册等资料  STM8S中文参考手册.pdf
-
-#### demo
-
-包括IAR工程和相关库文件
-
-#### examples
-
-包括makefile工程
-
----
-
-## Building
-
-Dependencies:
- 1. [STM8/sdcc]
- 2. [STM8/stm8flash]
-
-Building and flashing example project:
-
-```
-cd ./examples/<example>
-make flash
-
-```
-Uncomment `--peep-file $(LIBDIR)/util/extra.def` option in the Makefile to enable additional optimizer rules.
+[![sites](SoC/STM8L0.png)](https://www.st.com/en/microcontrollers-microprocessors/STM8L0-series.html) 
 
 
----
+### [资源收录](https://github.com/sochub/STM8L0)
 
-###  www.mcuyun.com   |    qitas@qitas.cn
+- [文档](docs/)
+- [资源](src/)
+- [工程](project/)
 
+### [替代方案](https://github.com/sochub/STM8L0)
 
+- [STM8L10](https://github.com/sochub/STM8L10) 
+- [STM8L15](https://github.com/sochub/STM8L15) 
+
+##  [SoC开发平台](http://www.qitas.cn)  
