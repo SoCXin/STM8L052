@@ -8,7 +8,7 @@
 
 ## [描述](https://github.com/sochub/STM8L0/wiki) 
 
-ST低成本低功耗解决方案
+ST低成本低功耗解决方案，可用于极简的低功耗设备中，推荐的型号为STM8L051F3
 
 [![sites](SoC/STM8L0.png)](https://www.st.com/en/microcontrollers-microprocessors/STM8L0-series.html) 
 
