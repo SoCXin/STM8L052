@@ -1,8 +1,8 @@
-﻿# [STM8L0](https://github.com/sochub/STM8L0) 
+﻿# [STM8L0x](https://github.com/sochub/STM8L0) 
 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
-#### 厂商：[ST](https://github.com/sochub/ST)
+#### 父级：[STM8L](https://github.com/sochub/STM8L)
 
 #### 架构：[STM8](https://github.com/sochub/STM8)
 
@@ -14,6 +14,8 @@ ST低成本低功耗解决方案
 
 
 ### [内部收录](https://github.com/sochub/STM8L0)
+
+STM8L0x系列和[STM8L15x](https://github.com/sochub/STM8L15) 的官方驱动文件一致，相应的工程可以通用。
 
 * [文档](docs/)
 * [资源](src/)
@@ -30,7 +32,7 @@ ST低成本低功耗解决方案
 
 替换方案[STM8L10x](https://github.com/sochub/STM8L10) 
 
-升级方案[STM8L15](https://github.com/sochub/STM8L15)
+升级方案[STM8L15x](https://github.com/sochub/STM8L15)
 
 极低功耗方案可以考虑TI的[MSP430](https://github.com/sochub/MSP430)
 
