@@ -543,7 +543,7 @@
                 </option>
                 <option>
                     <name>IlinkOutputFile</name>
-                    <state>STM8L0.out</state>
+                    <state>STM8L051.out</state>
                 </option>
                 <option>
                     <name>IlinkDebugInfoEnable</name>
