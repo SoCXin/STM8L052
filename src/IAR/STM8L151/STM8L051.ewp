@@ -69,7 +69,7 @@
                 </option>
                 <option>
                     <name>GenLibInFormatterDescription</name>
-                    <state>No specifier n, no float, no scan set, no assignment suppressing.</state>
+                    <state>Full formatting, without multibytes.</state>
                 </option>
                 <option>
                     <name>GenLibOutFormatter</name>
@@ -78,7 +78,7 @@
                 </option>
                 <option>
                     <name>GenLibOutFormatterDescription</name>
-                    <state>No specifier a or A, no specifier n, no float.</state>
+                    <state>Full formatting, without multibytes.</state>
                 </option>
                 <option>
                     <name>GenStackSize</name>
@@ -117,7 +117,7 @@
                 </option>
                 <option>
                     <name>GenMathFunctionDescription</name>
-                    <state></state>
+                    <state>Default variants of cos, sin, tan, log, log10, pow, and exp.</state>
                 </option>
             </data>
         </settings>
@@ -484,11 +484,11 @@
                 </option>
                 <option>
                     <name>OCOutputOverride</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>OOCOutputFile</name>
-                    <state>Bunka STM8L051F3 TX Ver.hex</state>
+                    <state>STM8L051.hex</state>
                 </option>
                 <option>
                     <name>OOCCommandLineProducer</name>
