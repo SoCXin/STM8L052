@@ -1,0 +1,3 @@
+[submodule "src/IAR/STM8L151/Libraries"]
+	path = src/IAR/STM8L151/Libraries
+	url = https://github.com/SoCXin/STM8L15x_StdPeriph_Driver
