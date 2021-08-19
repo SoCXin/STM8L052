@@ -1,0 +1,34 @@
+{
+    "type":"MCU",
+    "name":"STM8L052",
+    "title": "ST STM8L052 MCU",
+    "description":"ST STM8L MCU",
+    "Core": {
+        "num": 1,
+        "type":"STM8L",
+        "Freq":16,
+        "DMIPS": 12,
+        "CoreMark": 16
+    },
+    "manufacturer": {
+        "vendor":"ST",
+        "homepage":"https://www.st.com/zh/microcontrollers-microprocessors/stm8l-value-line.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/STM8L052.git"
+    },
+    "version":"1.0.0",
+    "series":["STM8L051","STM8L052"],
+    "package":["SO8N","TSSOP20","LQFP32","LQFP48"],
+    "peripheral": ["ADC","USART","SPI","IIC"],
+    "keywords": [
+        "dev-platform",
+        "ARM",
+        "Cortex-M",
+        "STMicroelectronics",
+        "STM32",
+        "ADC","USART","I2C","RTC","SPI",
+        "3.6V","1.8V"
+    ]
+}
