@@ -19,7 +19,7 @@ STM8L基于8位STM8内核，与STM32L系列一样采用了专有超低漏电流�
 * 2 Kbytes of SRAM
 * 1 Kbytes of EEPROM
 * 32 Kbytes of Flash
-* 12-bit ADC and DAC
+* 12-bit ADC
 
 ### [资源收录](https://github.com/SoCXin)
 
@@ -29,6 +29,6 @@ STM8L基于8位STM8内核，与STM32L系列一样采用了专有超低漏电流�
 
 ### [选型建议](https://github.com/SoCXin)
 
-[STM8L052](https://github.com/SoCXin/STM8L052)相较[STM8L152](https://github.com/SoCXin/STM8L152)没有DAC和比较器。
+[STM8L052](https://github.com/SoCXin/STM8L052)相较[STM8L152](https://github.com/SoCXin/STM8L152)没有DAC和比较器，存储容量减半，相关型号规格更少，适合costdown设计。
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
